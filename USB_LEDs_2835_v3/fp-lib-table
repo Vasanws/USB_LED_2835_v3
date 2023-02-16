@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "custom_terminalblock")(type "KiCad")(uri "${KIPRJMOD}/custom_terminalblock.pretty")(options "")(descr ""))
+)
